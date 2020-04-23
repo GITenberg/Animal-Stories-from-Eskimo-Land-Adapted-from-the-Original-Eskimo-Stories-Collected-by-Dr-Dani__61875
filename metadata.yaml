@@ -1,0 +1,49 @@
+_repo: Animal-Stories-from-Eskimo-Land-Adapted-from-the-Original-Eskimo-Stories-Collected-by-Dr-Dani__61875
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Riggs, Renée Coudert
+    alias: Riggs, Renee Coudert
+    gutenberg_agent_id: '51655'
+    url: http://www.gutenberg.org/2009/agents/51655
+  compiler:
+    agent_name: Neuman, Daniel Saheyause
+    birthdate: 1869
+    gutenberg_agent_id: '51649'
+    url: http://www.gutenberg.org/2009/agents/51649
+  illustrator:
+    agent_name: Hood, George
+    aliases:
+    - Hood, George W.
+    - Hood, G. W.
+    - Hood, George Washington
+    birthdate: 1869
+    deathdate: 1949
+    gutenberg_agent_id: '8642'
+    url: http://www.gutenberg.org/2009/agents/8642
+description: ''
+gutenberg_issued: '2020-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61875'
+  lccn: '23012976'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Folklore'
+- !lcc 'E011'
+- !lcsh 'Eskimos -- Folklore'
+- GITenberg
+tableOfContents: Foreword -- The journey to Eskimo Land -- Ivango or the lost sister
+  -- The robin, the crow and the fox -- The proud mouse -- The crow and the daylight
+  -- The orphan boy -- A race between a reindeer and a tom-cod -- Why they have summer
+  on St. Lawrence Island -- The lost son -- The crow and the owl -- The running stick
+  -- The treacherous crow and his cousin, the mink -- Good and bad weather -- How
+  the white whales happened -- A giant and his drum -- Lovek and Seranak -- The caribou
+  -- A fox story -- Mi-e-rak-puk.
+title: 'Animal Stories from Eskimo Land
+
+  Adapted from the Original Eskimo Stories Collected by Dr. Daniel S. Neuman'
+url: http://www.gutenberg.org/ebooks/61875
